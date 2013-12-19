@@ -5,7 +5,7 @@ Installing all of the required dependencies for building Frontend/JavaScript pro
 
 This project provide an installer for the most common tools you'll need to work.
 
-Simply download the installer and launch it to get started. Feel free to uncheck dependencies you already have or you do not wish to install.
+Simply [download the installer (dist/installer.exe)](https://github.com/SBoudrias/frontend-windows-installer/raw/master/dist/installer.exe) and launch it to get started. Feel free to uncheck dependencies you already have or you do not wish to install.
 
 
 Included
